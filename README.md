@@ -17,3 +17,4 @@ Works on Windows, Linux and macOS.
 
 - [psutil](https://github.com/giampaolo/psutil) — reads system information
 - [rich](https://github.com/Textualize/rich) — draws the table and colors
+<img width="500" height="172" alt="image" src="https://github.com/user-attachments/assets/c09be2c2-170c-4c49-a33c-fd3b14e73349" />
